@@ -1,5 +1,10 @@
 <h1><center><b><a href="https://github.com/SuLingGG/OpenWrt-Rpi">OpenWrt-Rpi</a></b></center></h1>
 
+## 改动
+
+仅仅是添加了CCnut的[feed-netkeeper](https://github.com/CCnut/feed-netkeeper)插件,我只编译了树莓派1的，其他的理论上也能成功编译。
+编译好的插件在releases中，适用于树莓派1和树莓派zeroW
+
 ## 快速通道
 
 我不想读文档，请将我快速传送到:
